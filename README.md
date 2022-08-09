@@ -20,6 +20,14 @@
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
+## Technologies Used
+- library - Pandas  - version 1.4.2
+- library - numpy   - version 1.21.5
+- library - seaborn - version 0.11.2
+- library - matplotlib - version 3.5.1 
+
+<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+
 ## Conclusions
 - Purpose of Loan - Small businesses are particularly risky, therefore should be cautiously sanctioned
 - Interest Rate -  Higher rates are not deterrent to defaults and therefore denying loans to risky individuals may be better strategy than approving their loan with higher interest 
@@ -29,15 +37,6 @@
 - DTI - The company has to focus more on lower dti loan applicants and stop approving the loans for higher dti applicants
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
-## Technologies Used
-- library - Pandas  - version 1.4.2
-- library - numpy   - version 1.21.5
-- library - seaborn - version 0.11.2
-- library - matplotlib - version 3.5.1 
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 
 ## Contact
